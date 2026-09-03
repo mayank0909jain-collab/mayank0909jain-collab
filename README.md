@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mayank0909jain-collab/mayank0909jain-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mayank Jain
 
-Here are some ideas to get you started:
+### 🤖 AI/ML Developer | 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent applications with  
+**AI • Machine Learning • Generative AI • MERN**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank0909jain-collab)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🤖 AI/ML Developer
+- 🧠 Learning Deep Learning & Generative AI
+- 💻 Building Full Stack applications
+- 🔗 Exploring LangChain, LangGraph & RAG
+- 🐍 Working with Python for AI/ML
+- 🚀 Currently building **Land Record AI**
+- 💡 Interested in solving real-world problems using technology
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### 💻 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏞️ Land Record AI
+
+**Intelligent Land Record Digitization and Validation System**
+
+A full-stack AI-powered system designed to digitize, extract, validate and visualize land records.
+
+### 🔥 Key Features
+
+- 📄 Document digitization
+- 🔍 OCR & information extraction
+- 🤖 AI-based validation
+- 🗺️ GIS integration
+- 📊 Verification dashboard
+- 🔐 Authentication & secure APIs
+
+### ⚡ Technology
+
+`React` `Node.js` `Express` `MongoDB` `FastAPI` `Python`  
+`AI/ML` `LangChain` `LangGraph`
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Deep Learning
+Generative AI
+RAG
+LangChain
+LangGraph
+Computer Vision
+NLP
+System Design
