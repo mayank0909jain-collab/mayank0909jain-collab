@@ -9,6 +9,10 @@ Building intelligent applications with
 
 <br>
 
+<img src="C:\Users\mayan\Downloads\df06dd7ab54d525063250fca0d86ccf3.jpg" width="300" />
+
+<br><br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank0909jain-collab)
 
 </div>
